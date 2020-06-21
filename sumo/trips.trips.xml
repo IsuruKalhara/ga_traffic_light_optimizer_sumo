@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- generated on 2020-06-12 05:43:24.863382 by randomTrips.py v1_6_0+0003-190709904e
+  options: -n light.net.xml -r light.rou.xml -e 50 -l
+-->
+<routes xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://sumo.dlr.de/xsd/routes_file.xsd">
+    <trip id="0" depart="0.00" from="c_s" to="c_n"/>
+    <trip id="1" depart="1.00" from="-c_n" to="c_n"/>
+    <trip id="2" depart="2.00" from="-c_n" to="-c_s"/>
+    <trip id="3" depart="3.00" from="c_s" to="-c_s"/>
+    <trip id="4" depart="4.00" from="-c_n" to="c_e"/>
+    <trip id="5" depart="5.00" from="c_s" to="c_n"/>
+    <trip id="6" depart="6.00" from="c_s" to="c_e"/>
+    <trip id="7" depart="7.00" from="w_c" to="-c_s"/>
+    <trip id="8" depart="8.00" from="-c_n" to="c_n"/>
+    <trip id="9" depart="9.00" from="-c_n" to="c_n"/>
+    <trip id="10" depart="10.00" from="-c_n" to="-w_c"/>
+    <trip id="11" depart="11.00" from="-c_n" to="-c_s"/>
+    <trip id="12" depart="12.00" from="-c_e" to="-c_s"/>
+    <trip id="13" depart="13.00" from="-c_e" to="-c_s"/>
+    <trip id="14" depart="14.00" from="c_s" to="c_e"/>
+    <trip id="15" depart="15.00" from="-c_n" to="-c_s"/>
+    <trip id="16" depart="16.00" from="c_s" to="c_n"/>
+    <trip id="17" depart="17.00" from="c_s" to="c_n"/>
+    <trip id="18" depart="18.00" from="c_s" to="-c_s"/>
+    <trip id="19" depart="19.00" from="-c_n" to="-c_s"/>
+    <trip id="20" depart="20.00" from="c_s" to="-w_c"/>
+    <trip id="21" depart="21.00" from="c_s" to="c_e"/>
+    <trip id="22" depart="22.00" from="w_c" to="-c_s"/>
+    <trip id="23" depart="23.00" from="w_c" to="-c_s"/>
+    <trip id="24" depart="24.00" from="-c_n" to="c_n"/>
+    <trip id="25" depart="25.00" from="w_c" to="-c_s"/>
+    <trip id="26" depart="26.00" from="-c_n" to="-c_s"/>
+    <trip id="27" depart="27.00" from="c_s" to="-c_s"/>
+    <trip id="28" depart="28.00" from="c_s" to="c_e"/>
+    <trip id="29" depart="29.00" from="c_s" to="-c_s"/>
+    <trip id="30" depart="30.00" from="w_c" to="c_e"/>
+    <trip id="31" depart="31.00" from="c_s" to="-w_c"/>
+    <trip id="32" depart="32.00" from="-c_n" to="c_n"/>
+    <trip id="33" depart="33.00" from="c_s" to="-w_c"/>
+    <trip id="34" depart="34.00" from="c_s" to="c_n"/>
+    <trip id="35" depart="35.00" from="c_s" to="-c_s"/>
+    <trip id="36" depart="36.00" from="-c_e" to="-w_c"/>
+    <trip id="37" depart="37.00" from="c_s" to="c_n"/>
+    <trip id="38" depart="38.00" from="-c_n" to="-c_s"/>
+    <trip id="39" depart="39.00" from="-c_n" to="c_e"/>
+    <trip id="40" depart="40.00" from="-c_n" to="-c_s"/>
+    <trip id="41" depart="41.00" from="-c_n" to="c_n"/>
+    <trip id="42" depart="42.00" from="c_s" to="-c_s"/>
+    <trip id="43" depart="43.00" from="-c_n" to="-w_c"/>
+    <trip id="44" depart="44.00" from="w_c" to="c_e"/>
+    <trip id="45" depart="45.00" from="-c_n" to="c_n"/>
+    <trip id="46" depart="46.00" from="w_c" to="c_e"/>
+    <trip id="47" depart="47.00" from="c_s" to="-c_s"/>
+    <trip id="48" depart="48.00" from="-c_n" to="c_n"/>
+    <trip id="49" depart="49.00" from="-c_e" to="-c_s"/>
+</routes>

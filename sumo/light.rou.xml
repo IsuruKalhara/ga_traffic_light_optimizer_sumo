@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!-- generated on 06/12/20 05:43:25 by Eclipse SUMO duarouter Version 1.6.0
+<configuration xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://sumo.dlr.de/xsd/duarouterConfiguration.xsd">
+
+    <input>
+        <net-file value="light.net.xml"/>
+        <route-files value="trips.trips.xml"/>
+    </input>
+
+    <output>
+        <output-file value="light.rou.xml"/>
+        <alternatives-output value="light.rou.alt.xml"/>
+    </output>
+
+    <time>
+        <begin value="0"/>
+        <end value="50.0"/>
+    </time>
+
+    <report>
+        <no-warnings value="true"/>
+        <ignore-errors value="true"/>
+        <no-step-log value="true"/>
+    </report>
+
+</configuration>
+-->
+
+<routes xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://sumo.dlr.de/xsd/routes_file.xsd">
+    <vehicle id="0" depart="0.00">
+        <route edges="c_s c_n"/>
+    </vehicle>
+    <vehicle id="2" depart="2.00">
+        <route edges="-c_n -c_s"/>
+    </vehicle>
+    <vehicle id="4" depart="4.00">
+        <route edges="-c_n c_e"/>
+    </vehicle>
+    <vehicle id="5" depart="5.00">
+        <route edges="c_s c_n"/>
+    </vehicle>
+    <vehicle id="6" depart="6.00">
+        <route edges="c_s c_e"/>
+    </vehicle>
+    <vehicle id="7" depart="7.00">
+        <route edges="w_c -c_s"/>
+    </vehicle>
+    <vehicle id="10" depart="10.00">
+        <route edges="-c_n -w_c"/>
+    </vehicle>
+    <vehicle id="11" depart="11.00">
+        <route edges="-c_n -c_s"/>
+    </vehicle>
+    <vehicle id="12" depart="12.00">
+        <route edges="-c_e -c_s"/>
+    </vehicle>
+    <vehicle id="13" depart="13.00">
+        <route edges="-c_e -c_s"/>
+    </vehicle>
+    <vehicle id="14" depart="14.00">
+        <route edges="c_s c_e"/>
+    </vehicle>
+    <vehicle id="15" depart="15.00">
+        <route edges="-c_n -c_s"/>
+    </vehicle>
+    <vehicle id="16" depart="16.00">
+        <route edges="c_s c_n"/>
+    </vehicle>
+    <vehicle id="17" depart="17.00">
+        <route edges="c_s c_n"/>
+    </vehicle>
+    <vehicle id="19" depart="19.00">
+        <route edges="-c_n -c_s"/>
+    </vehicle>
+    <vehicle id="20" depart="20.00">
+        <route edges="c_s -w_c"/>
+    </vehicle>
+    <vehicle id="21" depart="21.00">
+        <route edges="c_s c_e"/>
+    </vehicle>
+    <vehicle id="22" depart="22.00">
+        <route edges="w_c -c_s"/>
+    </vehicle>
+    <vehicle id="23" depart="23.00">
+        <route edges="w_c -c_s"/>
+    </vehicle>
+    <vehicle id="25" depart="25.00">
+        <route edges="w_c -c_s"/>
+    </vehicle>
+    <vehicle id="26" depart="26.00">
+        <route edges="-c_n -c_s"/>
+    </vehicle>
+    <vehicle id="28" depart="28.00">
+        <route edges="c_s c_e"/>
+    </vehicle>
+    <vehicle id="30" depart="30.00">
+        <route edges="w_c c_e"/>
+    </vehicle>
+    <vehicle id="31" depart="31.00">
+        <route edges="c_s -w_c"/>
+    </vehicle>
+    <vehicle id="33" depart="33.00">
+        <route edges="c_s -w_c"/>
+    </vehicle>
+    <vehicle id="34" depart="34.00">
+        <route edges="c_s c_n"/>
+    </vehicle>
+    <vehicle id="36" depart="36.00">
+        <route edges="-c_e -w_c"/>
+    </vehicle>
+    <vehicle id="37" depart="37.00">
+        <route edges="c_s c_n"/>
+    </vehicle>
+    <vehicle id="38" depart="38.00">
+        <route edges="-c_n -c_s"/>
+    </vehicle>
+    <vehicle id="39" depart="39.00">
+        <route edges="-c_n c_e"/>
+    </vehicle>
+    <vehicle id="40" depart="40.00">
+        <route edges="-c_n -c_s"/>
+    </vehicle>
+    <vehicle id="43" depart="43.00">
+        <route edges="-c_n -w_c"/>
+    </vehicle>
+    <vehicle id="44" depart="44.00">
+        <route edges="w_c c_e"/>
+    </vehicle>
+    <vehicle id="46" depart="46.00">
+        <route edges="w_c c_e"/>
+    </vehicle>
+    <vehicle id="49" depart="49.00">
+        <route edges="-c_e -c_s"/>
+    </vehicle>
+</routes>

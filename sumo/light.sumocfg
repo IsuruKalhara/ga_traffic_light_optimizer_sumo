@@ -1,0 +1,14 @@
+<configuration>
+	<input>
+		<net-file value="light.net.xml"/>
+		<route-files value="light.rou.xml"/>
+	</input>
+	<time>
+		<begin value="0"/>
+		<end value="2000"/>
+		<step-length value="0.1"/>
+	</time>
+	<output>
+		<tripinfo-output value="light.trip_info.xml"/>
+	</output>
+</configuration>
