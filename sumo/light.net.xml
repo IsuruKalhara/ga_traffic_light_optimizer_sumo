@@ -101,10 +101,10 @@
     </edge>
 
     <tlLogic id="gneJ1" offset="0" programID="0" type="static">
-		<phase duration="3" state="rygyGgGGGgGGggrGyygG" />
-		<phase duration="21" state="ggrGGyyggrggyyrrrrGG" />
-		<phase duration="107" state="GrgGyggyyGyGGGrGygGG" />
-		<phase duration="71" state="gygGGgggyrggyryyGGGy" />
+		<phase duration="1" state="yyrGGryGGgggGGGyygGg" />
+		<phase duration="120" state="GGyrGgGyrGggggGGGrGg" />
+		<phase duration="79" state="GGyGgggryyrrrygGrgGr" />
+		<phase duration="94" state="GGyygyrygygrgyrrggGy" />
 	</tlLogic>
 
     <junction id="c" incLanes="-c_n_0 -c_n_1 -c_n_2 -c_e_0 -c_e_1 -c_e_2 c_s_0 c_s_1 c_s_2 w_c_0 w_c_1 w_c_2" intLanes=":c_0_0 :c_1_0 :c_1_1 :c_1_2 :c_20_0 :c_5_0 :c_6_0 :c_6_1 :c_6_2 :c_21_0 :c_10_0 :c_11_0 :c_11_1 :c_11_2 :c_22_0 :c_15_0 :c_16_0 :c_16_1 :c_16_2 :c_23_0" shape="40.40,73.60 59.60,73.60 60.04,71.38 60.60,70.60 61.38,70.04 62.38,69.71 63.60,69.60 63.60,50.40 61.38,49.96 60.60,49.40 60.04,48.62 59.71,47.62 59.60,46.40 40.40,46.40 39.96,48.62 39.40,49.40 38.62,49.96 37.62,50.29 36.40,50.40 36.40,69.60 38.62,70.04 39.40,70.60 39.96,71.38 40.29,72.38" type="traffic_light" x="50.00" y="60.00">
